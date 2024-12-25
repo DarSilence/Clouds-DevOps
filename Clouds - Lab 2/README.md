@@ -61,7 +61,7 @@
 
 [Данные после иерархической категоризации сервисов](https://docs.google.com/spreadsheets/d/1wXMQtc-HLDuVe-oYnKdhtfQ_Fl_jXcL4YXIZN2IxxXM/edit?usp=sharing)
 
-![Таблица](https://github.com/DanilRozhin/Clouds-DevOps/blob/main/Clouds%20-%20Lab%202/result1.jpg)
+![Таблица](https://github.com/DanilRozhin/Clouds-DevOps/blob/main/Clouds%20-%20Lab%202/result2.jpg)
 
 ### Выводы:
 
